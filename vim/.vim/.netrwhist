@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT/node_modules/react-native-web/src/exports/Animated'
+let g:netrw_dirhist_7='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT'
+let g:netrw_dirhist_6='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT/components'
+let g:netrw_dirhist_5='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT'
+let g:netrw_dirhist_4='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT/components'
+let g:netrw_dirhist_3='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT'
+let g:netrw_dirhist_2='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT/components'
+let g:netrw_dirhist_1='/Users/shreyashchatterjee/AppDev/ReactNativeApps/FARMBOT'
