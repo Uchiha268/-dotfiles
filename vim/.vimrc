@@ -26,9 +26,6 @@ syntax enable
 " Maps nerd tree to <C-n>
 nnoremap <C-n> :NERDTreeToggle<CR>
 
-" Sets autosave to on
-let g:auto_save = 1
-
 " vim looks for ctags index file in the source directory
 set tags+=tags
 
