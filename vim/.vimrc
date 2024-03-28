@@ -29,6 +29,15 @@ nnoremap <C-n> :NERDTreeToggle<CR>
 " vim looks for ctags index file in the source directory
 set tags+=tags
 
+" Show vim keystrokes being typed in
+set showcmd
+
+" Set hjkl to move in insert mode as well
+inoremap <C-l> <Right>
+inoremap <C-h> <Left>
+inoremap <C-j> <Down>
+inoremap <C-k> <Up>
+
 " Plugins with vim-plug
 call plug#begin()
 	Plug 'preservim/nerdtree'
